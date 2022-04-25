@@ -24,11 +24,11 @@
     "eject": "react-scripts eject"
   },
   "proxy": {
-  "/api": {
-    "target": "http://backend:8000",
-    "changeOrigin" : true
-  }
-}
+    "/api": {
+      "target": "http://backend:8000",
+      "changeOrigin" : true
+    }
+  },
   "eslintConfig": {
     "extends": "react-app"
   },
