@@ -29,6 +29,7 @@ ALLOWED_HOSTS = [
     "localhost",
     "frontend",
     "192.168.11.11",
+    "backend",
 ]
 
 
