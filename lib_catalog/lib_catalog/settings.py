@@ -136,7 +136,7 @@ REST_FRAMEWORK = {
 }
 
 CORS_ORIGIN_WHITELIST = [
-    "http://frontend:3000",
+    "*",
 ]
 
 FIXTURES_DIRS = os.path.join(BASE_DIR, 'catalog/fixtures')
