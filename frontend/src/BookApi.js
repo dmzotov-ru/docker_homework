@@ -1,5 +1,5 @@
 import axios from 'axios'
-const API_URL = 'http://192.168.11.11/api/v1/lib/book/';
+const API_URL = '/api/v1/lib/book/';
 
 export default class BookManager {
 
